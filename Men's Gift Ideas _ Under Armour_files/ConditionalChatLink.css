@@ -1,0 +1,13 @@
+#rnowCChatDiv_PersistentFooter {
+	display: block;
+}
+#rnowCChatDiv_PersistentFooter a, #rnowChatLinkInfo_PersistentFooter.rn_ChatAvailable span {
+	font: 12px/1.25rem NeuePlak,ARMOUR,Helvetica,Arial,sans-serif !important;
+    color: #1d1d1d !important;
+    text-decoration: none;
+   
+ }
+.rn_ConditionalChatLink .rn_ChatAvailable
+{
+    display: block;
+}
